@@ -28,7 +28,7 @@
 <div align="center">
   
 ![thirdK's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirdK&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirdK&layout=compact&theme=ocean_dark&hide=ipynb&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thirdK&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
