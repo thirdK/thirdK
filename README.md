@@ -27,7 +27,7 @@
 # GitHub Stats
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+![thirdK's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirdK&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJH0120&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
