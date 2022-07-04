@@ -10,9 +10,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)   
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)      
@@ -23,7 +25,18 @@
 </div>
 
 # GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ocean_dark&show_icons=true)
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJH0120&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+<div align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
+   
+</div>
 
 <!--
 **thirdK/thirdK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
