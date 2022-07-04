@@ -3,7 +3,7 @@
 # About Me :
 백엔드 개발자를 희망하는 임태종입니다! 🌱
 
-# Tech Stack
+# Tech Stack :
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
