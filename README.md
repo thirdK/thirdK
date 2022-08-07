@@ -1,8 +1,3 @@
-### Hi there 👋
-
-# About Me :
-백엔드 개발자를 희망하는 임태종입니다! 🌱
-
 # Tech Stack :
 <div align="center">
 
